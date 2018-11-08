@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Lab 3.2 Alternative</string>
+    <string name="message">How are you, Summer?</string>
+    <string name="show_message">Show Message</string>
+</resources>
